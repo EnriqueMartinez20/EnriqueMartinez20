@@ -20,8 +20,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 **Web & Cloud:**  
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)   
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
@@ -34,7 +33,6 @@
 ## 🌱 Currently Learning  
 - 📊 **Data Analysis**
 - 🤖 **Artificial Intelligence**  
-- 🏗️ **Java Spring Boot & API Development** 
 - 🔍 **Learning to work with Looker Studio, Pandas, NumPy and Neural Networks**
   
 
